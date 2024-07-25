@@ -1,4 +1,4 @@
-![logo](https://github.com/neetubansal2306/neetubansal2306/blob/main/Banner.pdf)
+![logo](https://github.com/neetubansal2306/neetubansal2306/blob/main/Banner-1(1)(1).png)
 <h1 align="center">Hi 👋, I'm Neetu Bansal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
